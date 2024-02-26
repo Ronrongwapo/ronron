@@ -66,3 +66,7 @@ h2, h3 {
     object-fit: cover;
     order: 1;
 }
+
+#datetime {
+    font-size: 50px;
+}
