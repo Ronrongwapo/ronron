@@ -37,3 +37,9 @@ h2, h3 {
     font-size: 35px;
 }
 
+.profile-image {
+    width: 300px;
+    margin-top: 20px;
+    height: 200%;
+    order: -1; 
+}
